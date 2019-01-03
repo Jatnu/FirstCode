@@ -31,6 +31,11 @@ public class DeciToBin {
 	 System.out.println(t==d) ;
 	 System.out.println(s==q) ;
 	 
+	 Integer num = new Integer(4);
+	 Integer num2 = new Integer(4);
+	 System.out.println(num==num2);
+	 
+	 
 	
 	
 	

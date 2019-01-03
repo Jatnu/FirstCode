@@ -48,6 +48,7 @@ class DuplicateCharactersInString
         for (Character ch : charsInString)
         {
             if(charCountMap.get(ch) > 1)
+            	
             {
                 //If any char has a count of more than 1, printing it's count
  
